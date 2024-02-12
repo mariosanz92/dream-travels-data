@@ -15,31 +15,6 @@
           "day": 2,
           "location": "Lisbon",
           "description": "Visit the Jerónimos Monastery and the Monument to the Discoveries."
-        },
-        {
-          "day": 3,
-          "location": "Lisbon",
-          "description": "Stroll through Parque das Nações and visit the Oceanarium."
-        },
-        {
-          "day": 4,
-          "location": "Porto",
-          "description": "Explore Ribeira and cross the Luis I Bridge for panoramic views."
-        },
-        {
-          "day": 5,
-          "location": "Porto",
-          "description": "Visit the Port wine cellars in Vila Nova de Gaia."
-        },
-        {
-          "day": 6,
-          "location": "Funchal",
-          "description": "Explore the Botanical Garden and enjoy the view from Pico dos Barcelos Viewpoint."
-        },
-        {
-          "day": 7,
-          "location": "Funchal",
-          "description": "Take the cable car to Monte and enjoy a ride on the famous wicker toboggan."
         }
       ]
     },
@@ -58,31 +33,6 @@
           "day": 2,
           "location": "North Shore, Oahu",
           "description": "Discover the legendary North Shore, known for its big waves, explore Haleiwa town, and relax on the scenic beaches."
-        },
-        {
-          "day": 3,
-          "location": "Haleakalā, Maui",
-          "description": "Embark on a sunrise adventure at Haleakalā National Park, explore the lunar-like landscapes, and visit the historic town of Paia."
-        },
-        {
-          "day": 4,
-          "location": "Road to Hana, Maui",
-          "description": "Drive the scenic Road to Hana, stopping at waterfalls, black sand beaches, and lush rainforests along the way."
-        },
-        {
-          "day": 5,
-          "location": "Napali Coast, Kauai",
-          "description": "Experience the stunning Napali Coast by boat or helicopter, hike the Kalalau Trail, and relax on the secluded beaches of Ke'e."
-        },
-        {
-          "day": 6,
-          "location": "Waimea Canyon, Kauai",
-          "description": "Visit the Grand Canyon of the Pacific, Waimea Canyon, and explore the scenic viewpoints and hiking trails."
-        },
-        {
-          "day": 7,
-          "location": "Hapuna Beach, Big Island",
-          "description": "Conclude your Hawaiian adventure at Hapuna Beach on the Big Island, known for its white sand and clear blue waters. Snorkel, relax, and soak in the tropical paradise."
         }
       ]
     },
@@ -225,16 +175,6 @@
           "day": 5,
           "location": "Playa del Carmen",
           "description": "Relax on the pristine beaches of Playa del Carmen and explore the nearby Cozumel island."
-        },
-        {
-          "day": 6,
-          "location": "Tulum",
-          "description": "Visit the ancient Mayan ruins of Tulum and swim in the crystal-clear cenotes."
-        },
-        {
-          "day": 7,
-          "location": "Cancun",
-          "description": "Enjoy the vibrant nightlife of Cancun and unwind on the beautiful shores of the Caribbean Sea."
         }
       ]
     }
@@ -265,21 +205,6 @@
           "day": 4,
           "location": "Gyeongju",
           "description": "Stroll through the picturesque streets of the Yangdong Folk Village and visit the beautiful Anapji Pond."
-        },
-        {
-          "day": 5,
-          "location": "Jeju Island",
-          "description": "Relax on the stunning beaches of Jeju Island, explore the scenic Manjanggul Cave, and visit the iconic Hallasan Mountain."
-        },
-        {
-          "day": 6,
-          "location": "Jeju Island",
-          "description": "Discover the unique culture of Jeju at the Loveland sculpture park and enjoy the coastal beauty at the O'Sulloc Tea Museum."
-        },
-        {
-          "day": 7,
-          "location": "Busan",
-          "description": "Experience the vibrant atmosphere of Busan with visits to Jagalchi Fish Market, Gamcheon Culture Village, and the beautiful Haeundae Beach."
         }
       ]
     },
@@ -328,21 +253,6 @@
           "day": 8,
           "location": "Varanasi",
           "description": "Experience the spiritual essence of Varanasi with a boat ride along the Ganges River and explore the ancient temples and ghats."
-        },
-        {
-          "day": 9,
-          "location": "Rishikesh",
-          "description": "Immerse yourself in the yoga capital of the world, Rishikesh, and explore the scenic beauty of the Himalayan foothills."
-        },
-        {
-          "day": 10,
-          "location": "Amritsar",
-          "description": "Visit the iconic Golden Temple in Amritsar and experience the vibrant culture of the Sikh community."
-        },
-        {
-          "day": 11,
-          "location": "Shimla",
-          "description": "Explore the charming hill station of Shimla, stroll along the Ridge, and enjoy panoramic views of the Himalayas."
         }
       ]
     },
@@ -366,11 +276,6 @@
           "day": 3,
           "location": "Škofja Loka",
           "description": "Explore the medieval town of Škofja Loka, wander through its charming old town, and visit the Škofja Loka Castle."
-        },
-        {
-          "day": 4,
-          "location": "Piran",
-          "description": "Discover the coastal beauty of Piran, stroll along Tartini Square, and enjoy the stunning views from Piran Walls."
         }
       ]
     }
