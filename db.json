@@ -41,43 +41,7 @@
       "title": "China",
       "description": "Explore China, from the bustling streets of Beijing to the ancient wonders of the Great Wall. Delight your senses with exquisite Chinese cuisine, explore temples in Xi'an, immerse yourself in the modernity of Shanghai, and create unforgettable memories in this destination full of history and beauty. China invites you to experience a unique journey, where rich tradition meets 21st-century innovation.",
       "photo_url": "https://content.skyscnr.com/m/6a82667a63ac12a3/original/GettyImages-156384414.jpg",
-      "itinerary": [
-        {
-          "day": 1,
-          "location": "Beijing",
-          "description": "Explore the Forbidden City and Tiananmen Square."
-        },
-        {
-          "day": 2,
-          "location": "Beijing",
-          "description": "Walk along the Great Wall of China and visit the Summer Palace."
-        },
-        {
-          "day": 3,
-          "location": "Shanghai",
-          "description": "Stroll along the Bund and visit the Shanghai Museum."
-        },
-        {
-          "day": 4,
-          "location": "Shanghai",
-          "description": "Explore the Yuyuan Garden and enjoy a river cruise on the Huangpu River."
-        },
-        {
-          "day": 5,
-          "location": "Xi'an",
-          "description": "Discover the Terracotta Army and explore the ancient city wall."
-        },
-        {
-          "day": 6,
-          "location": "Guilin",
-          "description": "Cruise the Li River and explore the Reed Flute Cave."
-        },
-        {
-          "day": 7,
-          "location": "Hong Kong",
-          "description": "Take a tram to Victoria Peak and explore the vibrant street markets."
-        }
-      ]
+      "itinerary": []
     },
     {
       "id": 4,
@@ -94,26 +58,6 @@
           "day": 2,
           "location": "Tokyo",
           "description": "Explore the high-tech district of Akihabara and indulge in sushi at Tsukiji Fish Market."
-        },
-        {
-          "day": 3,
-          "location": "Kyoto",
-          "description": "Visit the iconic Fushimi Inari Shrine and stroll through the traditional Gion district."
-        },
-        {
-          "day": 4,
-          "location": "Kyoto",
-          "description": "Discover the beauty of Kinkaku-ji (Golden Pavilion) and experience a traditional tea ceremony."
-        },
-        {
-          "day": 5,
-          "location": "Hakone",
-          "description": "Relax in an onsen with views of Mount Fuji and cruise on Lake Ashi."
-        },
-        {
-          "day": 6,
-          "location": "Nara",
-          "description": "Encounter friendly deer in Nara Park and explore the ancient Todai-ji Temple."
         }
       ]
     },
@@ -122,33 +66,7 @@
       "title": "Mexico",
       "description": "Embark on an immersive journey through Mexico, where the vibrant culture of Mexico City beckons, the ancient wonders of Chichen Itza await, and the spicy delights of Mexican cuisine tantalize your taste buds. From the historic charm of Oaxaca to the pristine beaches of Tulum, Mexico invites you to delve into a rich tapestry of experiences that showcase its diverse landscapes and cultural treasures.",
       "photo_url": "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
-      "itinerary": [
-        {
-          "day": 1,
-          "location": "Mexico City",
-          "description": "Explore the iconic Zocalo square and visit the historic National Palace."
-        },
-        {
-          "day": 2,
-          "location": "Mexico City",
-          "description": "Marvel at the ancient ruins of Teotihuacan and savor traditional street tacos."
-        },
-        {
-          "day": 3,
-          "location": "Oaxaca",
-          "description": "Discover the vibrant markets of Oaxaca and indulge in mole, a local specialty."
-        },
-        {
-          "day": 4,
-          "location": "Oaxaca",
-          "description": "Explore the archaeological site of Monte Alban and visit local artisan workshops."
-        },
-        {
-          "day": 5,
-          "location": "Playa del Carmen",
-          "description": "Relax on the pristine beaches of Playa del Carmen and explore the nearby Cozumel island."
-        }
-      ]
+      "itinerary": []
     }
   ],
   "done": [
