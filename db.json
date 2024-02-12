@@ -119,34 +119,6 @@
     },
     {
       "id": 5,
-      "title": "Italy",
-      "description": "Immerse yourself in the enchanting allure of Italy, where a tapestry of rich history, artistic wonders, and exquisite flavors unfolds. Wander through the timeless streets of Rome, uncover the artistic gems of Florence, and savor the gastronomic delights of Tuscany. Italy, from the iconic Colosseum to the breathtaking Amalfi Coast, beckons you to uncover a seamless fusion of cultural magnificence and the splendors of nature.",
-      "photo_url": "https://media.timeout.com/images/106015066/750/562/image.jpg",
-      "itinerary": [
-        {
-          "day": 1,
-          "location": "Rome",
-          "description": "Marvel at the ancient wonders of the Colosseum and explore the historic Roman Forum."
-        },
-        {
-          "day": 2,
-          "location": "Rome",
-          "description": "Stroll through the enchanting streets of Trastevere and visit the iconic Pantheon."
-        },
-        {
-          "day": 3,
-          "location": "Florence",
-          "description": "Admire the artistic treasures at the Uffizi Gallery and Ponte Vecchio."
-        },
-        {
-          "day": 4,
-          "location": "Tuscany",
-          "description": "Indulge in the culinary delights of Tuscany with a wine tour and explore the charming villages of the region."
-        }
-      ]
-    },
-    {
-      "id": 6,
       "title": "Mexico",
       "description": "Embark on an immersive journey through Mexico, where the vibrant culture of Mexico City beckons, the ancient wonders of Chichen Itza await, and the spicy delights of Mexican cuisine tantalize your taste buds. From the historic charm of Oaxaca to the pristine beaches of Tulum, Mexico invites you to delve into a rich tapestry of experiences that showcase its diverse landscapes and cultural treasures.",
       "photo_url": "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
@@ -181,7 +153,7 @@
   ],
   "done": [
     {
-      "id": 7,
+      "id": 6,
       "title": "South Korea",
       "description": "Explore the enchanting landscapes and rich cultural heritage of South Korea. From the bustling streets of Seoul to the historic sites of Gyeongju, and the serene beauty of Jeju Island, South Korea invites you on an immersive journey through its vibrant cities and picturesque landscapes.",
       "photo_url": "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg",
@@ -209,55 +181,7 @@
       ]
     },
     {
-      "id": 8,
-      "title": "India",
-      "description": "Embark on a journey through India, where the bustling streets of Delhi beckon, the iconic Taj Mahal awaits in Agra, and the vibrant culture of Jaipur invites exploration. From the serene backwaters of Kerala to the majestic forts of Rajasthan, India promises an unforgettable adventure filled with rich history, diverse landscapes, and a tapestry of cultural experiences.",
-      "photo_url": "https://stories.weroad.es/wp-content/uploads/2018/10/AdobeStock_105110643.jpeg",
-      "itinerary": [
-        {
-          "day": 1,
-          "location": "Delhi",
-          "description": "Explore the historic Red Fort and Jama Masjid, and take a rickshaw ride through the bustling streets of Chandni Chowk."
-        },
-        {
-          "day": 2,
-          "location": "Delhi",
-          "description": "Visit the iconic India Gate and the serene Lotus Temple, and explore the vibrant Hauz Khas Village."
-        },
-        {
-          "day": 3,
-          "location": "Agra",
-          "description": "Marvel at the breathtaking beauty of the Taj Mahal and explore the historic Agra Fort."
-        },
-        {
-          "day": 4,
-          "location": "Jaipur",
-          "description": "Discover the majestic Amber Fort and the enchanting City Palace, and explore the vibrant markets of Jaipur."
-        },
-        {
-          "day": 5,
-          "location": "Jaipur",
-          "description": "Visit the iconic Hawa Mahal and explore the historic Jantar Mantar observatory."
-        },
-        {
-          "day": 6,
-          "location": "Kerala",
-          "description": "Cruise the serene backwaters of Kerala and relax on the tranquil beaches of Varkala."
-        },
-        {
-          "day": 7,
-          "location": "Kerala",
-          "description": "Explore the lush tea plantations of Munnar and visit the Periyar Wildlife Sanctuary."
-        },
-        {
-          "day": 8,
-          "location": "Varanasi",
-          "description": "Experience the spiritual essence of Varanasi with a boat ride along the Ganges River and explore the ancient temples and ghats."
-        }
-      ]
-    },
-    {
-      "id": 9,
+      "id": 7,
       "title": "Slovenia",
       "description": "Embark on a picturesque journey to Slovenia, where the charming streets of Ljubljana enchant, the emerald waters of Lake Bled captivate, and the flavors of Slovenian cuisine delight your taste buds. From the medieval charm of Škofja Loka to the majestic Triglav National Park, Slovenia invites you to explore its diverse landscapes and embrace the warmth of its rich cultural heritage.",
       "photo_url": "https://miro.medium.com/v2/resize:fit:1400/1*h_nQx6iZZ3wUe-RTgzlMjw.jpeg",
