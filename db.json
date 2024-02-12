@@ -4,15 +4,375 @@
       "id": 1,
       "title": "Portugal",
       "description": "Embark on a journey through Portugal, where the charming streets of Lisbon captivate you, the golden beaches of the Algarve await, and Portuguese cuisine delights with authentic flavors. Explore castles in Sintra and create unforgettable memories in this destination full of history and beauty. Portugal invites you to experience something truly unique!",
-      "status": "todo",
-      "photo_url": "https://a.cdn-hotels.com/gdcs/production82/d1923/447a348f-f875-4885-b00a-e9a90603fef5.jpg"
+      "photo_url": "https://a.cdn-hotels.com/gdcs/production82/d1923/447a348f-f875-4885-b00a-e9a90603fef5.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Lisbon",
+          "description": "Explore the Alfama neighborhood and visit São Jorge Castle."
+        },
+        {
+          "day": 2,
+          "location": "Lisbon",
+          "description": "Visit the Jerónimos Monastery and the Monument to the Discoveries."
+        },
+        {
+          "day": 3,
+          "location": "Lisbon",
+          "description": "Stroll through Parque das Nações and visit the Oceanarium."
+        },
+        {
+          "day": 4,
+          "location": "Porto",
+          "description": "Explore Ribeira and cross the Luis I Bridge for panoramic views."
+        },
+        {
+          "day": 5,
+          "location": "Porto",
+          "description": "Visit the Port wine cellars in Vila Nova de Gaia."
+        },
+        {
+          "day": 6,
+          "location": "Funchal",
+          "description": "Explore the Botanical Garden and enjoy the view from Pico dos Barcelos Viewpoint."
+        },
+        {
+          "day": 7,
+          "location": "Funchal",
+          "description": "Take the cable car to Monte and enjoy a ride on the famous wicker toboggan."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hawaii",
+      "description": "Embark on a tropical escapade to Hawaii, where the lush landscapes of Oahu, the volcanic wonders of Maui, and the serene beaches of Kauai beckon. Immerse yourself in the Aloha spirit, savor the flavors of traditional Hawaiian cuisine, and witness the breathtaking beauty of the Pacific archipelago. Hawaii invites you to experience the perfect blend of paradise and adventure.",
+      "photo_url": "https://cdn.aarp.net/content/dam/aarp/travel/Domestic/2021/12/1140-oahu-hero.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Honolulu, Oahu",
+          "description": "Explore the vibrant city of Honolulu, visit Waikiki Beach, and hike to the summit of Diamond Head for panoramic views."
+        },
+        {
+          "day": 2,
+          "location": "North Shore, Oahu",
+          "description": "Discover the legendary North Shore, known for its big waves, explore Haleiwa town, and relax on the scenic beaches."
+        },
+        {
+          "day": 3,
+          "location": "Haleakalā, Maui",
+          "description": "Embark on a sunrise adventure at Haleakalā National Park, explore the lunar-like landscapes, and visit the historic town of Paia."
+        },
+        {
+          "day": 4,
+          "location": "Road to Hana, Maui",
+          "description": "Drive the scenic Road to Hana, stopping at waterfalls, black sand beaches, and lush rainforests along the way."
+        },
+        {
+          "day": 5,
+          "location": "Napali Coast, Kauai",
+          "description": "Experience the stunning Napali Coast by boat or helicopter, hike the Kalalau Trail, and relax on the secluded beaches of Ke'e."
+        },
+        {
+          "day": 6,
+          "location": "Waimea Canyon, Kauai",
+          "description": "Visit the Grand Canyon of the Pacific, Waimea Canyon, and explore the scenic viewpoints and hiking trails."
+        },
+        {
+          "day": 7,
+          "location": "Hapuna Beach, Big Island",
+          "description": "Conclude your Hawaiian adventure at Hapuna Beach on the Big Island, known for its white sand and clear blue waters. Snorkel, relax, and soak in the tropical paradise."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "China",
+      "description": "Explore China, from the bustling streets of Beijing to the ancient wonders of the Great Wall. Delight your senses with exquisite Chinese cuisine, explore temples in Xi'an, immerse yourself in the modernity of Shanghai, and create unforgettable memories in this destination full of history and beauty. China invites you to experience a unique journey, where rich tradition meets 21st-century innovation.",
+      "photo_url": "https://content.skyscnr.com/m/6a82667a63ac12a3/original/GettyImages-156384414.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Beijing",
+          "description": "Explore the Forbidden City and Tiananmen Square."
+        },
+        {
+          "day": 2,
+          "location": "Beijing",
+          "description": "Walk along the Great Wall of China and visit the Summer Palace."
+        },
+        {
+          "day": 3,
+          "location": "Shanghai",
+          "description": "Stroll along the Bund and visit the Shanghai Museum."
+        },
+        {
+          "day": 4,
+          "location": "Shanghai",
+          "description": "Explore the Yuyuan Garden and enjoy a river cruise on the Huangpu River."
+        },
+        {
+          "day": 5,
+          "location": "Xi'an",
+          "description": "Discover the Terracotta Army and explore the ancient city wall."
+        },
+        {
+          "day": 6,
+          "location": "Guilin",
+          "description": "Cruise the Li River and explore the Reed Flute Cave."
+        },
+        {
+          "day": 7,
+          "location": "Hong Kong",
+          "description": "Take a tram to Victoria Peak and explore the vibrant street markets."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Japan",
+      "description": "Embark on a captivating journey to Japan, where the seamless blend of ancient traditions and modern innovation awaits. Immerse yourself in Tokyo's vibrant streets, explore historic temples in Kyoto, and savor the delicate flavors of authentic Japanese cuisine. From the iconic Mount Fuji to the serene gardens of Kanazawa, Japan invites you to discover a captivating blend of cultural richness and natural beauty.",
+      "photo_url": "https://humanidades.com/wp-content/uploads/2017/07/japon-7-e1571188423405-800x415.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Tokyo",
+          "description": "Experience the vibrant energy of Shibuya Crossing and visit the historic Meiji Shrine."
+        },
+        {
+          "day": 2,
+          "location": "Tokyo",
+          "description": "Explore the high-tech district of Akihabara and indulge in sushi at Tsukiji Fish Market."
+        },
+        {
+          "day": 3,
+          "location": "Kyoto",
+          "description": "Visit the iconic Fushimi Inari Shrine and stroll through the traditional Gion district."
+        },
+        {
+          "day": 4,
+          "location": "Kyoto",
+          "description": "Discover the beauty of Kinkaku-ji (Golden Pavilion) and experience a traditional tea ceremony."
+        },
+        {
+          "day": 5,
+          "location": "Hakone",
+          "description": "Relax in an onsen with views of Mount Fuji and cruise on Lake Ashi."
+        },
+        {
+          "day": 6,
+          "location": "Nara",
+          "description": "Encounter friendly deer in Nara Park and explore the ancient Todai-ji Temple."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Italy",
+      "description": "Immerse yourself in the enchanting allure of Italy, where a tapestry of rich history, artistic wonders, and exquisite flavors unfolds. Wander through the timeless streets of Rome, uncover the artistic gems of Florence, and savor the gastronomic delights of Tuscany. Italy, from the iconic Colosseum to the breathtaking Amalfi Coast, beckons you to uncover a seamless fusion of cultural magnificence and the splendors of nature.",
+      "photo_url": "https://media.timeout.com/images/106015066/750/562/image.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Rome",
+          "description": "Marvel at the ancient wonders of the Colosseum and explore the historic Roman Forum."
+        },
+        {
+          "day": 2,
+          "location": "Rome",
+          "description": "Stroll through the enchanting streets of Trastevere and visit the iconic Pantheon."
+        },
+        {
+          "day": 3,
+          "location": "Florence",
+          "description": "Admire the artistic treasures at the Uffizi Gallery and Ponte Vecchio."
+        },
+        {
+          "day": 4,
+          "location": "Tuscany",
+          "description": "Indulge in the culinary delights of Tuscany with a wine tour and explore the charming villages of the region."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Mexico",
+      "description": "Embark on an immersive journey through Mexico, where the vibrant culture of Mexico City beckons, the ancient wonders of Chichen Itza await, and the spicy delights of Mexican cuisine tantalize your taste buds. From the historic charm of Oaxaca to the pristine beaches of Tulum, Mexico invites you to delve into a rich tapestry of experiences that showcase its diverse landscapes and cultural treasures.",
+      "photo_url": "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Mexico City",
+          "description": "Explore the iconic Zocalo square and visit the historic National Palace."
+        },
+        {
+          "day": 2,
+          "location": "Mexico City",
+          "description": "Marvel at the ancient ruins of Teotihuacan and savor traditional street tacos."
+        },
+        {
+          "day": 3,
+          "location": "Oaxaca",
+          "description": "Discover the vibrant markets of Oaxaca and indulge in mole, a local specialty."
+        },
+        {
+          "day": 4,
+          "location": "Oaxaca",
+          "description": "Explore the archaeological site of Monte Alban and visit local artisan workshops."
+        },
+        {
+          "day": 5,
+          "location": "Playa del Carmen",
+          "description": "Relax on the pristine beaches of Playa del Carmen and explore the nearby Cozumel island."
+        },
+        {
+          "day": 6,
+          "location": "Tulum",
+          "description": "Visit the ancient Mayan ruins of Tulum and swim in the crystal-clear cenotes."
+        },
+        {
+          "day": 7,
+          "location": "Cancun",
+          "description": "Enjoy the vibrant nightlife of Cancun and unwind on the beautiful shores of the Caribbean Sea."
+        }
+      ]
     }
   ],
-  "done": {
-    "id": 2,
-    "title": "Brasil",
-    "description": "Vibrant journey through Brazil, where the lively streets of Rio de Janeiro beckon, the pristine beaches of Copacabana and Ipanema invite relaxation, and the sizzling flavors of Brazilian cuisine tantalize your taste buds. Explore the lush Amazon rainforest or the awe-inspiring Iguazu Falls, creating unforgettable moments in this vast and diverse country. Brazil invites you to immerse yourself in its dynamic culture and natural wonders, promising an extraordinary adventure!",
-    "status": "done",
-    "photo_url": "https://www.preferente.com/wp-content/uploads/2021/10/Cristo-Redentor-Rio-de-Janeiro-RJ-002.jpg"
-  }
+  "done": [
+    {
+      "id": 7,
+      "title": "South Korea",
+      "description": "Explore the enchanting landscapes and rich cultural heritage of South Korea. From the bustling streets of Seoul to the historic sites of Gyeongju, and the serene beauty of Jeju Island, South Korea invites you on an immersive journey through its vibrant cities and picturesque landscapes.",
+      "photo_url": "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Seoul",
+          "description": "Discover the modern charm of Seoul with visits to Gyeongbokgung Palace and the bustling Dongdaemun Design Plaza."
+        },
+        {
+          "day": 2,
+          "location": "Seoul",
+          "description": "Explore the vibrant neighborhoods of Insadong and Myeongdong, known for their traditional markets and trendy shops."
+        },
+        {
+          "day": 3,
+          "location": "Gyeongju",
+          "description": "Immerse yourself in the ancient history of Gyeongju by visiting Bulguksa Temple and the historic Seokguram Grotto."
+        },
+        {
+          "day": 4,
+          "location": "Gyeongju",
+          "description": "Stroll through the picturesque streets of the Yangdong Folk Village and visit the beautiful Anapji Pond."
+        },
+        {
+          "day": 5,
+          "location": "Jeju Island",
+          "description": "Relax on the stunning beaches of Jeju Island, explore the scenic Manjanggul Cave, and visit the iconic Hallasan Mountain."
+        },
+        {
+          "day": 6,
+          "location": "Jeju Island",
+          "description": "Discover the unique culture of Jeju at the Loveland sculpture park and enjoy the coastal beauty at the O'Sulloc Tea Museum."
+        },
+        {
+          "day": 7,
+          "location": "Busan",
+          "description": "Experience the vibrant atmosphere of Busan with visits to Jagalchi Fish Market, Gamcheon Culture Village, and the beautiful Haeundae Beach."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "India",
+      "description": "Embark on a journey through India, where the bustling streets of Delhi beckon, the iconic Taj Mahal awaits in Agra, and the vibrant culture of Jaipur invites exploration. From the serene backwaters of Kerala to the majestic forts of Rajasthan, India promises an unforgettable adventure filled with rich history, diverse landscapes, and a tapestry of cultural experiences.",
+      "photo_url": "https://stories.weroad.es/wp-content/uploads/2018/10/AdobeStock_105110643.jpeg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Delhi",
+          "description": "Explore the historic Red Fort and Jama Masjid, and take a rickshaw ride through the bustling streets of Chandni Chowk."
+        },
+        {
+          "day": 2,
+          "location": "Delhi",
+          "description": "Visit the iconic India Gate and the serene Lotus Temple, and explore the vibrant Hauz Khas Village."
+        },
+        {
+          "day": 3,
+          "location": "Agra",
+          "description": "Marvel at the breathtaking beauty of the Taj Mahal and explore the historic Agra Fort."
+        },
+        {
+          "day": 4,
+          "location": "Jaipur",
+          "description": "Discover the majestic Amber Fort and the enchanting City Palace, and explore the vibrant markets of Jaipur."
+        },
+        {
+          "day": 5,
+          "location": "Jaipur",
+          "description": "Visit the iconic Hawa Mahal and explore the historic Jantar Mantar observatory."
+        },
+        {
+          "day": 6,
+          "location": "Kerala",
+          "description": "Cruise the serene backwaters of Kerala and relax on the tranquil beaches of Varkala."
+        },
+        {
+          "day": 7,
+          "location": "Kerala",
+          "description": "Explore the lush tea plantations of Munnar and visit the Periyar Wildlife Sanctuary."
+        },
+        {
+          "day": 8,
+          "location": "Varanasi",
+          "description": "Experience the spiritual essence of Varanasi with a boat ride along the Ganges River and explore the ancient temples and ghats."
+        },
+        {
+          "day": 9,
+          "location": "Rishikesh",
+          "description": "Immerse yourself in the yoga capital of the world, Rishikesh, and explore the scenic beauty of the Himalayan foothills."
+        },
+        {
+          "day": 10,
+          "location": "Amritsar",
+          "description": "Visit the iconic Golden Temple in Amritsar and experience the vibrant culture of the Sikh community."
+        },
+        {
+          "day": 11,
+          "location": "Shimla",
+          "description": "Explore the charming hill station of Shimla, stroll along the Ridge, and enjoy panoramic views of the Himalayas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Slovenia",
+      "description": "Embark on a picturesque journey to Slovenia, where the charming streets of Ljubljana enchant, the emerald waters of Lake Bled captivate, and the flavors of Slovenian cuisine delight your taste buds. From the medieval charm of Škofja Loka to the majestic Triglav National Park, Slovenia invites you to explore its diverse landscapes and embrace the warmth of its rich cultural heritage.",
+      "photo_url": "https://miro.medium.com/v2/resize:fit:1400/1*h_nQx6iZZ3wUe-RTgzlMjw.jpeg",
+      "itinerary": [
+        {
+          "day": 1,
+          "location": "Ljubljana",
+          "description": "Stroll through the historic streets of Ljubljana, visit Ljubljana Castle, and indulge in local delicacies at the Central Market."
+        },
+        {
+          "day": 2,
+          "location": "Bled",
+          "description": "Experience the magic of Lake Bled, take a traditional pletna boat to Bled Island, and hike to Bled Castle for panoramic views."
+        },
+        {
+          "day": 3,
+          "location": "Škofja Loka",
+          "description": "Explore the medieval town of Škofja Loka, wander through its charming old town, and visit the Škofja Loka Castle."
+        },
+        {
+          "day": 4,
+          "location": "Piran",
+          "description": "Discover the coastal beauty of Piran, stroll along Tartini Square, and enjoy the stunning views from Piran Walls."
+        }
+      ]
+    }
+  ]
 }
